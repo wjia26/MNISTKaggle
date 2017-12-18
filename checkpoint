@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\William Jiang\\Documents\\TensorFlow-Tutorials\\MNISTKaggle\\KAGGLEMNIST-0.001CONV2.model"
+all_model_checkpoint_paths: "C:\\Users\\William Jiang\\Documents\\TensorFlow-Tutorials\\MNISTKaggle\\KAGGLEMNIST-0.001CONV2.model"
